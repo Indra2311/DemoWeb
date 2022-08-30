@@ -1,1 +1,2 @@
-This is some content to mess up with new feature branch
+This is some content to mess up with new feature branch,
+Again bug fixing for master branch
